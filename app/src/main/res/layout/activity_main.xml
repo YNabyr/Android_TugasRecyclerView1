@@ -11,6 +11,7 @@
         android:id="@+id/rv_heroes"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="#292929"
         tools:listitem="@layout/item_row_hero" />
 
 </RelativeLayout>

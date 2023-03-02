@@ -3,54 +3,86 @@ package com.example.myrecyclerview
 object HeroesData {
     private val data = arrayOf(
         arrayOf(
-            "Ahmad Dahlan",
-            "Salah seorang ulama dan khatib terkemuka di Masjid Besar Kasultanan Yogyakarta pada masa itu, dan ibu dari K.H. Ahmad Dahlan adalah puteri dari H. Ibrahim yang juga menjabat penghulu Kesultanan Ngayogyakarta Hadiningrat pada masa itu. KH. Ahmad Dahlan telah mempelopori kebangkitan ummat Islam untuk menyadari nasibnya sebagai bangsa terjajah yang masih harus belajar dan berbuat.",
-            "https://upload.wikimedia.org/wikipedia/commons/8/87/Ahmad_Dahlan.jpg"
+            "Drug-Eating Genius Mage",
+            "[Dari studio yang membawakanmu <Damn Reincarnation> dan <Player Who Returned 10,000 Years Later>!]\n" +
+                    "\n" +
+                    "Setelah mencapai batas talenta di magic, sang protagonis dikirim ke dunia game sebagai hukuman – ke sebuah kota besar bernama Valkan.\n" +
+                    "Untuk bertahan hidup, dia membangun relasi dengan orang lain dan menyelidiki rahasia di balik “dunia tertutup”, berusaha untuk mencegah akhir dari dunia.",
+            "https://wuz.shinigami.id/wp-content/uploads/2023/02/02013351/Drug-Eating-Genius-Mage-210x300.jpg"
         ),
         arrayOf(
-            "Ahmad Yani",
-            "Jenderal TNI Anumerta Ahmad Yani (juga dieja Achmad Yani; lahir di Purworejo, Jawa Tengah, 19 Juni 1922 – meninggal di Lubang Buaya, Jakarta, 1 Oktober 1965 pada umur 43 tahun) adalah komandan Tentara Nasional Indonesia Angkatan Darat, dan dibunuh oleh anggota Gerakan 30 September saat mencoba untuk menculik dia dari rumahnya.",
-            "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg"
+            "Superhuman Battlefield",
+            "Seo Moonyeob, pahlawan yang menyelamatkan umat manusia denga mengorbankan dirinya, superhuman terkuat.\n" +
+                    "\n" +
+                    "Saat dia tiba-tiba kembali ke dunia yang damai 17 tahun kemudian, yang telah menganggapnya mati.\n" +
+                    "dunia sudah berubah, dan sekarang orang-orang bersaing dalam olahraga <Superhuman Battlefield\n" +
+                    "Webtoon Menarik Fantasi  X sports X action!",
+            "https://wuz.shinigami.id/wp-content/uploads/2022/06/20032520/Superhuman-Battlefield-1-210x300.jpg"
         ),
         arrayOf(
-            "Sutomo",
-            "Sutomo (lahir di Surabaya, Jawa Timur, 3 Oktober 1920 – meninggal di Padang Arafah, Arab Saudi, 7 Oktober 1981 pada umur 61 tahun) lebih dikenal dengan sapaan akrab oleh rakyat sebagai Bung Tomo, adalah pahlawan yang terkenal karena peranannya dalam membangkitkan semangat rakyat untuk melawan kembalinya penjajah Belanda melalui tentara NICA, yang berakhir dengan pertempuran 10 November 1945 yang hingga kini diperingati sebagai Hari Pahlawan.",
-            "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bung_Tomo.jpg"
+            "Infinite Mage",
+            "Shirone, seorang anak yang ditinggalkan di kandang dan dibesarkan sebagai orang biasa.\n" +
+                    "\n" +
+                    "Seorang anak yang terbangun untuk menulis dengan wawasan bawaan,\n" +
+                    "Suatu hari ketika dia pergi ke kota, dia mengalami keajaiban yang sangat dia ingin tahu.\n" +
+                    "\n" +
+                    "Di jalan itu, Sirone bermimpi menjadi seorang penyihir.\n" +
+                    "Namun, tempat dengan penghalang status yang tebal ini kejam terhadap anak-anak,\n" +
+                    "Dia menemukan sisi lain dari dunia ini bahkan sebelum dia menjadi dewasa… .\n" +
+                    "\n" +
+                    "Di dunia ini berputar di suatu tempat\n" +
+                    "Akankah dia bisa menjadi penyihir impiannya?",
+            "https://wuz.shinigami.id/wp-content/uploads/2022/12/20030212/Infinite_Mage-210x300.jpg"
         ),
         arrayOf(
-            "Gatot Soebroto",
-            "Jenderal TNI (Purn.) Gatot Soebroto (lahir di Sumpiuh, Banyumas, Jawa Tengah, 10 Oktober 1907 – meninggal di Jakarta, 11 Juni 1962 pada umur 54 tahun) adalah tokoh perjuangan militer Indonesia dalam merebut kemerdekaan dan juga pahlawan nasional Indonesia. Ia dimakamkan di Ungaran, kabupaten Semarang.",
-            "https://upload.wikimedia.org/wikipedia/commons/b/be/Col_Gatot_Subroto%2C_Kenang-Kenangan_Pada_Panglima_Besar_Letnan_Djenderal_Soedirman%2C_p27.jpg"
+            "Kill The Hero",
+            "Setelah dia dibunuh oleh pemimpin guildnya sendiri, Woojin mendapat kesempatan untuk memulai kembali hidupnya. Kali ini dia tidak tertarik untuk menyelamatkan dunia dari monster—dia mengarahkan pandangannya untuk balas dendam! Skill tingkat tingginya dengan cepat membuatnya terkenal di antara player,\n" +
+                    "\n" +
+                    "Tapi ada sesuatu yang tidak diketahui siapa pun: Kepihak mana dia memihak?",
+            "https://wuz.shinigami.id/wp-content/uploads/2022/11/20050748/KTH-1-210x300.jpg"
         ),
         arrayOf(
-            "Ki Hadjar Dewantarai",
-            "Raden Mas Soewardi Soerjaningrat (EBI: Suwardi Suryaningrat, sejak 1922 menjadi Ki Hadjar Dewantara, EBI: Ki Hajar Dewantara, beberapa menuliskan bunyi bahasa Jawanya dengan Ki Hajar Dewantoro; lahir di Pakualaman, 2 Mei 1889 – meninggal di Yogyakarta, 26 April 1959 pada umur 69 tahun; selanjutnya disingkat sebagai \"Soewardi\" atau \"KHD\") adalah aktivis pergerakan kemerdekaan Indonesia, kolumnis, politisi, dan pelopor pendidikan bagi kaum pribumi Indonesia dari zaman penjajahan Belanda. Ia adalah pendiri Perguruan Taman Siswa, suatu lembaga pendidikan yang memberikan kesempatan bagi para pribumi untuk bisa memperoleh hak pendidikan seperti halnya para priyayi maupun orang-orang Belanda.",
-            "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ki_Hadjar_Dewantara_Mimbar_Umum_18_October_1949_p2.jpg"
+            "Reaper of The Drifting Moon",
+            "Dia Terjebak di “Sisi Gelap” Dunia Murim nan kelam dan kejam, Sebagai Seorang “Assassin”.\n" +
+                    "\n" +
+                    "[ Bukalah Matamu yang lebar dan Teruslah Waspada, Jika kau tak ingin Diseret Kedalam Kegelapan Abadi.",
+            "https://wuz.shinigami.id/wp-content/uploads/2022/07/20031835/Reaper-Drifting-of-the-moon-1-210x300.jpg"
         ),
         arrayOf(
-            "Mohammad Hatta",
-            "Dr.(HC) Drs. H. Mohammad Hatta (lahir dengan nama Mohammad Athar, dikenal sebagai Bung Hatta; lahir di Fort de Kock (sekarang Bukittinggi, Sumatera Barat), Hindia Belanda, 12 Agustus 1902 – meninggal di Jakarta, 14 Maret 1980 pada umur 77 tahun) adalah tokoh pejuang, negarawan, ekonom, dan juga Wakil Presiden Indonesia yang pertama. Ia bersama Soekarno memainkan peranan penting untuk memerdekakan bangsa Indonesia dari penjajahan Belanda sekaligus memproklamirkannya pada 17 Agustus 1945. Ia juga pernah menjabat sebagai Perdana Menteri dalam Kabinet Hatta I, Hatta II, dan RIS. Ia mundur dari jabatan wakil presiden pada tahun 1956, karena berselisih dengan Presiden Soekarno. Hatta juga dikenal sebagai Bapak Koperasi Indonesia.",
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/VP_Hatta.jpg/330px-VP_Hatta.jpg"
+            "Solo Leveling Special",
+            "Cerita Lanjutan dari Ending Solo Leveling.",
+            "https://wuz.shinigami.id/wp-content/uploads/2022/05/20044628/Solo-Leveling-210x300.jpg"
         ),
         arrayOf(
-            "Soedirman",
-            "Jenderal Besar Raden Soedirman (EYD: Sudirman; lahir 24 Januari 1916 – meninggal 29 Januari 1950 pada umur 34 tahun) adalah seorang perwira tinggi Indonesia pada masa Revolusi Nasional Indonesia. Menjadi panglima besar Tentara Nasional Indonesia pertama, ia secara luas terus dihormati di Indonesia. Terlahir dari pasangan rakyat biasa di Purbalingga, Hindia Belanda, Soedirman diadopsi oleh pamannya yang seorang priyayi. Setelah keluarganya pindah ke Cilacap pada tahun 1916, Soedirman tumbuh menjadi seorang siswa rajin; ia sangat aktif dalam kegiatan ekstrakurikuler, termasuk mengikuti program kepanduan yang dijalankan oleh organisasi Islam Muhammadiyah. Saat di sekolah menengah, Soedirman mulai menunjukkan kemampuannya dalam memimpin dan berorganisasi, dan dihormati oleh masyarakat karena ketaatannya pada Islam. Setelah berhenti kuliah keguruan, pada 1936 ia mulai bekerja sebagai seorang guru, dan kemudian menjadi kepala sekolah, di sekolah dasar Muhammadiyah; ia juga aktif dalam kegiatan Muhammadiyah lainnya dan menjadi pemimpin Kelompok Pemuda Muhammadiyah pada tahun 1937. Setelah Jepang menduduki Hindia Belanda pada 1942, Soedirman tetap mengajar. Pada tahun 1944, ia bergabung dengan tentara Pembela Tanah Air (PETA) yang disponsori Jepang, menjabat sebagai komandan batalion di Banyumas. Selama menjabat, Soedirman bersama rekannya sesama prajurit melakukan pemberontakan, namun kemudian diasingkan ke Bogor.",
-            "https://upload.wikimedia.org/wikipedia/commons/b/be/Col_Gatot_Subroto%2C_Kenang-Kenangan_Pada_Panglima_Besar_Letnan_Djenderal_Soedirman%2C_p27.jpg"
+            "Moon-Shadow Sword Emperor",
+            "“Jujur… Sungguh hidup yang malang.”\n" +
+                    "Walau dia telah menjadi murid dari Heavenly Demon di tengah-tengah Sekte Demonic yang penuh dengan perselisihan,\n" +
+                    "Yeon So-Woon dikhianati oleh saudara seperguruannya dan mencapai ajalnya.\n" +
+                    "\n" +
+                    "Namun…\n" +
+                    "\n" +
+                    "Saat dia bangun, dia kembali ke waktu saat dia masih kecil, sebelum dia dibawa paksa ke Sekte Demonic?!\n" +
+                    "Benci untuk mengulang kehidupannya yang seperti neraka di Sekte Demonic, Yeon So-Woon mulai merencanakan kehidupan barunya.\n" +
+                    "Aku akan balas dendam ke Sekte Demonic,\n" +
+                    "\n" +
+                    "Menjadi seorang elder dari Aliansi Murim,\n" +
+                    "Dan akhirnya, hidup sejahtera dan dihormati.",
+            "https://wuz.shinigami.id/wp-content/uploads/2023/02/20042729/Tukang_pedang_bayangan-1-210x300.jpg"
         ),
         arrayOf(
-            "Soekarno",
-            "Dr.(H.C.) Ir. H. Soekarno (ER, EYD: Sukarno, nama lahir: Koesno Sosrodihardjo) (lahir di Surabaya, Jawa Timur, 6 Juni 1901 – meninggal di Jakarta, 21 Juni 1970 pada umur 69 tahun) adalah Presiden pertama Republik Indonesia yang menjabat pada periode 1945–1967. Ia memainkan peranan penting dalam memerdekakan bangsa Indonesia dari penjajahan Belanda. Ia adalah Proklamator Kemerdekaan Indonesia (bersama dengan Mohammad Hatta) yang terjadi pada tanggal 17 Agustus 1945. Soekarno adalah yang pertama kali mencetuskan konsep mengenai Pancasila sebagai dasar negara Indonesia dan ia sendiri yang menamainya.",
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Presiden_Sukarno.jpg/330px-Presiden_Sukarno.jpg"
+            "The Bully In-Charge",
+            "Setelah putus sekolah, Kwon Daegun sedang mempersiapkan ujian kualifikasinya. Saat dia sedang bekerja paruh waktu di sebuah toko serba ada, dia berkelahi dengan beberapa preman. Daegun, yang dengan mudah mengalahkan mereka, ditawari sebuah proyek yang disebut “Iljin in Charge/The Bully In Charge” oleh Yayasan Pendidikan, yang telah mengawasinya sejak lama. Dia, yang menerima tawaran itu setelah banyak pertimbangan, memasuki sekolah menengah milik yayasan dan mengalahkan para pembully di sekolah ini satu per satu sesuai dengan perintah yayasan.",
+            "https://wuz.shinigami.id/wp-content/uploads/2022/07/20032701/The_Bully_In_Charge-4-210x300.jpg"
         ),
         arrayOf(
-            "Soepomo",
-            "Prof. Mr. Dr. Soepomo (Ejaan Soewandi: Supomo; lahir di Sukoharjo, Jawa Tengah, 22 Januari 1903 – meninggal di Jakarta, 12 September 1958 pada umur 55 tahun) adalah seorang pahlawan nasional Indonesia. Soepomo dikenal sebagai arsitek Undang-undang Dasar 1945, bersama dengan Muhammad Yamin dan Soekarno.",
-            "https://upload.wikimedia.org/wikipedia/commons/c/c3/Supomo_from_President_Website.JPG"
+            "Eleceed",
+            "Kaiden – Pengguna kemampuan misterius yang bersembunyi di dalam tubuh kucing jalanan. Dia kemudian dijemput oleh Jiwoo setelah terluka setelah berkelahi dengan pengguna kemampuan lain. Ia memiliki kepribadian yang keras kepala dan suka memerintah. Jiwoo – anak SMA yang energik dan banyak bicara yang suka kucing. Ia sangat baik dan juga tampaknya memiliki kemampuan khusus.",
+            "https://wuz.shinigami.id/wp-content/uploads/2023/02/20201637/690x1000-207x300.jpg"
         ),
         arrayOf(
-            "Tan Malaka",
-            "Tan Malaka atau Ibrahim gelar Datuk Sutan Malaka (lahir di Nagari Pandam Gadang, Suliki, Lima Puluh Kota, Sumatera Barat, 2 Juni 1897 – meninggal di Desa Selopanggung, Kediri, Jawa Timur, 21 Februari 1949 pada umur 51 tahun) adalah seorang pembela kemerdekaan Indonesia, tokoh Partai Komunis Indonesia, juga pendiri Partai Murba, dan merupakan salah satu Pahlawan Nasional Indonesia.",
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/TanMalaka_DariPendjara_ed3.jpg/330px-TanMalaka_DariPendjara_ed3.jpg"
+            "Duke Pendragon",
+            "Terlahir sebagai penerus keluarga bangsawan berpangkat rendah, Raven Varte menanggung dosa keluarganya yang diduga merencanakan pemberontakan melawan kekaisaran. Sebagai pengampunan, dia dikirim untuk melawan Demon bersama Satuan terburuk kekaisaran, “Satuan Demon”. Sebagian besar mengatakan bahwa itu adalah tempat di mana orang-orang tidak akan bertahan bahkan selama satu tahun, tetapi Raven entah bagaimana berhasil bertahan selama sepuluh tahun. Ketika pengampunanya berada di depan mata, di medan perang terakhirnya, dia bertemu dengan ‘Penerus Keluarga Duke Pendragon, Eren Pendragon.",
+            "https://shinigami.id/wp-content/uploads/2022/04/f1860016-82ee-4c3a-8332-4bd4a6c79eac.png"
         )
     )
 
